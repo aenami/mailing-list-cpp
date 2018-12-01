@@ -153,6 +153,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClInclude Include="pch.h" />
+    <ClInclude Include="termcolor.hpp" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="mail_list.cpp" />
